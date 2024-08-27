@@ -152,6 +152,9 @@ p a{
     .name{
         font-size: 17px;
     }
+    .logo{
+        visibility: hidden;
+    }
     .logo h5{
         font-size: 11px;
     }
@@ -163,7 +166,7 @@ p a{
     }
     .content{
         display: block;
-        margin-top: -150px;
+        margin-top: -190px;
         
     }
     .column1{
