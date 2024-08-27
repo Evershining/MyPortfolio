@@ -157,11 +157,13 @@ p a{
     }
     .nav-link a{
         display:block;
+        visibility: hidden;
         padding-top: 20px;
         /* font-size: 8px; */
     }
     .content{
         display: block;
+        margin-top: -150px;
         
     }
     .column1{
@@ -183,6 +185,10 @@ p a{
     .aboutme{
         width: 100%;
         padding-left:0 ;
+        margin-top: 20px;
+    }
+    .paragraph{ 
+        font-size: 10px;
     }
     .footer{
         display: block;
