@@ -195,8 +195,9 @@ p a{
         margin-top: 50px;
     }
     .footer1{
+        margin-top: 20px;
         padding-left: 20px;
-        font-size: 10px;
+        font-size: 14px;
     }
     .footer2{
         display:block;
