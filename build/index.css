@@ -196,6 +196,7 @@ p a{
     }
     .footer1{
         padding-left: 20px;
+        font-size: 10px;
     }
     .footer2{
         display:block;
@@ -203,6 +204,9 @@ p a{
     }
     .footer2 div{
         text-align: left;
+    }
+    .footer2 p{
+        font-size: 10px;
     }
     .call{
         padding-top: 20px;
