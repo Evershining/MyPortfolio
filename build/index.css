@@ -188,14 +188,14 @@ p a{
         margin-top: 20px;
     }
     .paragraph{ 
-        font-size: 10px;
+        font-size: 12px;
     }
     .footer{
         display: block;
         margin-top: 50px;
     }
     .footer1{
-        margin-top: 20px;
+        margin-top: 50px;
         padding-left: 20px;
         font-size: 14px;
     }
@@ -207,10 +207,10 @@ p a{
         text-align: left;
     }
     .footer2 p{
-        font-size: 10px;
+        font-size: 12px;
     }
     .call{
-        padding-top: 20px;
+        padding-top: 0px;
     }
     .call p{
         padding-bottom: 10px;
